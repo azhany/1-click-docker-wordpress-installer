@@ -50,7 +50,7 @@ sudo docker-compose restart
 ## Verifying the Installation
 
 1. Visit `https://your-domain.com` – should display the WordPress installation page.
-2. Visit `https://your-domain.com:8081` – should show phpMyAdmin.
+2. Visit `https://your-domain.com/phpmyadmin` – should show phpMyAdmin.
 
 ## Notes
 - The script installs all necessary dependencies, including Docker and Nginx.
